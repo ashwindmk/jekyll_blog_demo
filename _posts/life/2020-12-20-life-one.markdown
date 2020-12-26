@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Life One"
+date:   2020-12-20 23:54:53 +0530
+categories: jekyll blog
+---
+
+# Stay Productive
+
+Jekyll requires blog post files to be named according to the following format:
+
+![My image](/assets/img/banner_android.jpg)
+
+**This is bold**
+
+

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Tech One"
+date:   2020-12-21 23:54:53 +0530
+categories: jekyll blog
+---
+
+# Tech Blog One
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+#### Ruby Source code
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+#### Java Source Code
+
+{% highlight java %}
+public int foo(int a, int b) {
+    return a + b;
+}
+{% endhighlight %}

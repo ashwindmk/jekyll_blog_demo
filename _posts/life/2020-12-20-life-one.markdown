@@ -12,5 +12,3 @@ Jekyll requires blog post files to be named according to the following format:
 ![My image](/assets/img/banner_android.jpg)
 
 **This is bold**
-
-
